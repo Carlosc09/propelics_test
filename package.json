@@ -1,0 +1,19 @@
+{
+  "name": "propelics_test",
+  "version": "1.0.0",
+  "description": "Propelics JS Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlosc09/propelics_test.git"
+  },
+  "author": "Carlos Castro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carlosc09/propelics_test/issues"
+  },
+  "homepage": "https://github.com/Carlosc09/propelics_test#readme"
+}
